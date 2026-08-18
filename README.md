@@ -35,6 +35,14 @@ Soy un físico egresado de la UNAM con una sólida formación analítica y matem
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
+### 🏆 Certificaciones e Insignias
+
+* [**Python Essentials 1 & 2**](#) - *Fundamentos de programación, estructuras de datos y lógica algorítmica.*
+* [**Análisis Exploratorio de Datos R**](#) - *Limpieza, visualización y extracción de insights a partir de bases de datos.*
+
+---
+
+
 
 ### 📫 Contáctame
 
